@@ -7,6 +7,6 @@
 
 <p>Sempre disposto a aprender e adquirir conhecimento</p>
 
-<p>Gosto de assitir e acompanhar futebol, ler e tenho cada vez mais interesse em conhecer o mundo &#1F30E;</p>
+<p>Gosto de assitir e acompanhar futebol, ler e tenho cada vez mais interesse em conhecer o mundo &#x1F30E;</p>
 
 <img src = "https://media.giphy.com/media/10bxTLrpJNS0PC/giphy.gif">
