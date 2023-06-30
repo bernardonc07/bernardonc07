@@ -11,5 +11,4 @@
 
 <img src = "https://media.giphy.com/media/10bxTLrpJNS0PC/giphy.gif">
 
-<b>Contatos<b>
-<href="instragram.com/bernardoncnc>
+
